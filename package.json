@@ -1,0 +1,24 @@
+{
+  "name": "json-required-fields",
+  "version": "1.0.0",
+  "description": "Validates a json and returns a pretty print error of the missing path",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MayasHaddad/json-required-fields.git"
+  },
+  "keywords": [
+    "json",
+    "required-field",
+    "validation"
+  ],
+  "author": "Mayas Haddad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MayasHaddad/json-required-fields/issues"
+  },
+  "homepage": "https://github.com/MayasHaddad/json-required-fields"
+}
